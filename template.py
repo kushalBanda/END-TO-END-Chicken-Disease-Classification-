@@ -26,7 +26,8 @@ list_of_files = [
     "parms.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb"
+    "research/trails.ipynb",
+    'templates/index.html'
                  ]
 
 
