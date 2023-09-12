@@ -2,13 +2,10 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Demo](#demo)
-- [Dataset](#dataset)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
-- [Inference](#inference)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
