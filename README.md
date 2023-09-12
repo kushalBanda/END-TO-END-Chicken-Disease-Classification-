@@ -74,7 +74,7 @@ Data: python Data.py
 ### Model Training
 To train the model, use the following command:
 ```
-python train.py --dataset_path /path/to/dataset --epochs 50 --batch_size 32
+python train.py 
 ```
 
 ### Evaluation
